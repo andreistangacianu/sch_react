@@ -1,0 +1,54 @@
+.landing__main_container {
+}
+
+.landing__main_section {
+  text-align: center;
+  padding-top: 5.063rem;
+  /* padding-bottom: 5.063rem; */
+}
+
+.landing__second {
+  background-color: green;
+}
+
+.landing_row {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 990px;
+  box-sizing: border-box;
+  margin-bottom: 40px;
+}
+
+.landing_row_content_med {
+  line-height: 1.5;
+  margin-top: 0;
+  color: #294661;
+  font-family: "Colfax-Regular,helvetica,sans-serif";
+  margin-bottom: 0;
+  font-size: 20px;
+}
+
+.landing__main_header {
+  color: #294661;
+}
+
+.action_buttons > * {
+  margin-right: 15px;
+}
+
+.landing_cards {
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.landing_cards > div {
+  margin-right: 20px;
+}
+
+.landing_uses {
+  margin-top: 50px;
+  background-color: #f4f6f7;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}

@@ -1,0 +1,20 @@
+.dashboard__container {
+  width: 100%;
+}
+
+.results_container {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.results__latest__container_left {
+  max-width: 600px;
+  flex-grow: 1;
+}
+
+.results__latest__container_right {
+  max-width: 600px;
+  flex-grow: 1;
+  margin-left: 20px;
+}

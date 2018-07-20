@@ -1,0 +1,69 @@
+// primary
+$blue: #049fd9;
+$river-blue: #097dbc;
+$dark-blue: #024259;
+$light-blue: #eff8fc;
+$dark-gray: #58585b;
+
+// status
+$green: #6cc04a;
+$orange: #faa000;
+$red: #cf2030;
+$light-red: #fcf4f4;
+
+// greys
+$light-gray-1: #fafafa;
+$light-gray-2: #f6f6f6;
+$light-gray-3: #e9e9e9;
+$med-gray-1: #c6c7ca;
+$med-gray-2: #9e9ea2;
+$med-gray-3: #7f7f86;
+
+// secondary
+$cyan: #00CFD2;
+$pink: #E86E97;
+$purple: #8055C9;
+$blue-silver: #8599B6;
+
+//gradients
+$blue-gradient: linear-gradient(270deg, $blue 0%, $river-blue 100%);
+
+
+$white: #ffffff;
+$black: #000000;
+
+$disabled-opacity: 0.6;
+
+
+:export {
+  // primary
+  blue: $blue;
+  riverBlue: $river-blue;
+  darkBlue: $dark-blue;
+  white: $white;
+  lightBlue: $light-blue;
+  darkGray: $dark-gray;
+
+  // status
+  green: $green;
+  orange: $orange;
+  red: $red;
+  lightRed: $light-red;
+
+  //grays:
+  lightGray1: $light-gray-1;
+  lightGray2: $light-gray-2;
+  lightGray3: $light-gray-3;
+  medGray1: $med-gray-1;
+  medGray2: $med-gray-2;
+  medGray3: $med-gray-3;
+
+  //secondary
+  cyan: $cyan;
+  pink: $pink;
+  purple: $purple;
+  blueSilver: $blue-silver;
+
+  //gradients
+  blueGradient: $blue-gradient;
+}

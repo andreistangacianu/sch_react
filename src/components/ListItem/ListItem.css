@@ -1,0 +1,15 @@
+.list__item_left {
+  width: 20%;
+}
+.list__item_center {
+  width: 60%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.list__item_right {
+  width: 20%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

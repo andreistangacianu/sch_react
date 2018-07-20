@@ -1,0 +1,2 @@
+export const CREATE_SESSION = "auth/CREATE_SESSION";
+export const UPDATE_DRAFT_SURVEY_STATE = "survey/UPDATE_DRAFT_SURVEY_STATE";
